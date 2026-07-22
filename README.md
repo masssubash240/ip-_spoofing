@@ -30,7 +30,7 @@
 Clone and run:
 
 ```bash
-git clone https://github.com/masssubash240/g.git
+git clone https://github.com/masssubash240/ip-_spoofing.git
 cd god-of-cyber-spoof ip.py
 sudo python3 spoof ip.py
 ```
