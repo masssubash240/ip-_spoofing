@@ -30,8 +30,8 @@
 Clone and run:
 
 ```bash
-git clone https://github.com/masssubash240/god-of-cyber-ip-changer.git
-cd god-of-cyber-ip-changer
+git clone https://github.com/masssubash240/g.git
+cd god-of-cyber-spoof ip.py
 sudo python3 spoof ip.py
 ```
 
@@ -42,7 +42,7 @@ sudo python3 spoof ip.py
 sudo python3 auto_ip_changer.py
 
 # Specific interface, change every 5s
-sudo python3 auto_ip_changer.py eth0 5
+sudo python3 spoof ip.py eth0 5
 ```
 
 Stop anytime with `Ctrl+C`.
