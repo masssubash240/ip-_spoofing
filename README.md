@@ -32,7 +32,7 @@ Clone and run:
 ```bash
 git clone https://github.com/masssubash240/god-of-cyber-ip-changer.git
 cd god-of-cyber-ip-changer
-sudo python3 auto_ip_changer.py [interface] [interval_seconds]
+sudo python3 spoof ip.py
 ```
 
 **Examples:**
